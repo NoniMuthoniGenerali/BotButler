@@ -6,6 +6,7 @@ body {
 
 .text-wrap {
   word-wrap: break-word;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .bot-army {
